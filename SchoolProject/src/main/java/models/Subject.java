@@ -12,4 +12,8 @@ public class Subject {
         this.teacher = teacher;
         this.grade = grade;
     }
+
+    public String getName() {
+        return name;
+    }
 }

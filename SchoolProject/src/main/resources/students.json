@@ -3,14 +3,30 @@
     "code": "ST-01-John",
     "name": "John Doe",
     "age": "11",
-    "grade": "MIDDLE_SCHOOL",
-    "score": "B"
+    "grade": "ELEMENTARY_SCHOOL",
+    "score": "B",
+    "subjectList": [
+      {
+          "subject":"mathematics",
+          "score":"B"
+      },
+      {
+        "subject":"english",
+        "score":"A"
+    }
+    ]
   },
   {
     "code": "ST-02-Tom",
     "name": "Tom Lee",
     "age": "14",
-    "grade": "MIDDLE_SCHOOL",
-    "score": "C"
+    "grade": "HIGH_SCHOOL",
+    "score": "C",
+    "subjectList": [
+      {
+          "subject":"english",
+          "score":"A"
+      }
+    ]
   }
 ]

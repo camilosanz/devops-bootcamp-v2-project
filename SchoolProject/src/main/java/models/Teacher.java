@@ -1,11 +1,11 @@
 package models;
 
-import helpers.Grade;
+// import helpers.Grade;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Teacher {
+public class Teacher implements User {
     private String code;
     private String name;
     private List<Subject> subjectList;
@@ -13,6 +13,10 @@ public class Teacher {
     public Teacher(String name) {
         this.code = "TE" + (int)(Math.random() * 100 + 1) + name;
         this.name = name;
+    }
+
+    public String getName() {
+        return name;
     }
 
     public String getCode() {

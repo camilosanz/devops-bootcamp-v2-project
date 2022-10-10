@@ -1,0 +1,20 @@
+[
+    {
+        "code": "ST-01-someone0",
+        "name": "someone0",
+        "age": 10,
+        "grade": "ELEMENTARY_SCHOOL"
+    },
+    {
+        "code": "ST-01-someone1",
+        "name": "someone1",
+        "age": 12,
+        "grade": "MIDDLE_SCHOOL"
+    },
+    {
+        "code": "ST-01-someone2",
+        "name": "someone2",
+        "age": 15,
+        "grade": "HIGH_SCHOOL"
+    }
+  ]

@@ -1,0 +1,44 @@
+[
+    {
+      "code": "TE-01-Walter",
+      "name": "Walter",
+      "subjectList": [
+        {
+            "subject":"mathematics",
+            "score":"A"
+        },
+        {
+            "subject":"biology",
+            "score":"A"
+        }
+      ]
+    },
+    {
+      "code": "TE-02-Mattew",
+      "name": "Mattew",
+      "subjectList": [
+        {
+            "subject":"spanish",
+            "score":"A"
+        },
+        {
+            "subject":"english",
+            "score":"A"
+        }
+      ]
+    },
+    {
+      "code": "TE-03-Louis",
+      "name": "Louis",
+      "subjectList": [
+        {
+            "subject":"chemistry",
+            "score":"A"
+        },
+        {
+            "subject":"philosopy",
+            "score":"A"
+        }
+      ]
+    }
+  ]
